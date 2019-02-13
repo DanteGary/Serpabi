@@ -1,0 +1,1 @@
+var url = "<?php echo route('posts.index')?>";
